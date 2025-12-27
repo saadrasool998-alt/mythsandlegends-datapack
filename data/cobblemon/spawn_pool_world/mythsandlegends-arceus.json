@@ -12,7 +12,7 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "80",
+      "level": "90-100",
       "weight": 0.1,
       "condition": {
         "biomes": [
@@ -34,7 +34,7 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "80",
+      "level": "90-100",
       "weight": 0.1,
       "condition": {
         "biomes": [
