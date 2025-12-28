@@ -12,7 +12,7 @@
       "type": "pokemon",
       "context": "surface",
       "bucket": "ultra-rare",
-      "level": "50",
+      "level": "60-75",
       "weight": 0.1,
       "condition": {
         "biomes": [
@@ -38,7 +38,7 @@
       "type": "pokemon",
       "context": "surface",
       "bucket": "ultra-rare",
-      "level": "50",
+      "level": "60-75",
       "weight": 0.1,
       "condition": {
         "biomes": [
