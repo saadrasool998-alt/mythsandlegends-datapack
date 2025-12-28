@@ -12,7 +12,7 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "50-60",
+      "level": "60-75",
       "weight": 0.1,
       "condition": {
         "biomes": [
@@ -28,7 +28,7 @@
         "item_requirement": [
           {
             "id": "cobblemon:ice_stone",
-            "count": 3,
+            "count": 6,
             "consume": true
           }
         ]
@@ -43,7 +43,7 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "50-60",
+      "level": "60-75",
       "weight": 0.1,
       "condition": {
         "biomes": [
@@ -57,7 +57,7 @@
         "item_requirement": [
           {
             "id": "cobblemon:ice_stone",
-            "count": 3,
+            "count": 6,
             "consume": true
           }
         ]
